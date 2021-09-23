@@ -1,4 +1,3 @@
-import { useState } from "react";
 import logoIng from "../../assets/logo.svg";
 import { Container, Content } from "./styles";
 
